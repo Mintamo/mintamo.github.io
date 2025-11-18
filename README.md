@@ -1,0 +1,1 @@
+# mintamo.github.io
