@@ -1,6 +1,6 @@
 title: "My Business"
 description: "What your company does"
-url: "https://YOURUSERNAME.github.io"   # <-- replace with your GitHub username
+url: "https://mintamo.github.io"   # <-- replace with your GitHub username
 baseurl: ""                             # leave empty unless repo is NOT your main site
 
 remote_theme: raviriley/agency-jekyll-theme
